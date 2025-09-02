@@ -8,11 +8,11 @@
 
 	// Nations
 	{
-		"name": "New Star",
-		"leaderName": "Willand Keiji",
+		"name": "Greenstorm",
+		"leaderName": "Anna Fang",
 		"adjective": ["Star"],
-		"startBias": ["Wasteland"],
-		"preferredVictoryType": "Diplomatic",
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
 		"personality": "Keiji",
 		"favoredReligion": "Humanism",
 
